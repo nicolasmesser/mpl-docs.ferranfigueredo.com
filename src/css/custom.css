@@ -4,17 +4,22 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,700&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #EE4035;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary-dark: #CF030D;
+  --ifm-color-primary-darker: #9F0100;
+  --ifm-color-primary-darkest: #730100;
+  --ifm-color-primary-light: #FF4B32;
+  --ifm-color-primary-lighter: #FE7B5D;
+  --ifm-color-primary-lightest: #FFA487;
   --ifm-code-font-size: 95%;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
