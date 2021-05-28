@@ -63,4 +63,13 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      'docusaurus-plugin-plausible',
+      {
+        domain: 'mpl-docs.ferranfigueredo.com',
+        customDomain: 'analytics.ferranfigueredo.com'
+      },
+    ]
+  ],
 };
