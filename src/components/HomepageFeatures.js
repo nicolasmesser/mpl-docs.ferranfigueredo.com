@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'EPUB2 and 3 Compatible',
+    Svg: require('../../static/img/study.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Turn your posts into digital books. Our digital publishing plugin allows you to create ebooks that look great on any reading device.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Your book on Amazon',
+    Svg: require('../../static/img/shopping-bag.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We support MOBI and EPUB formats that meet the specifications outlined in the Kindle Publishing Guidelines. Your book will be publish-ready to sell online in seconds.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Make an audiobook',
+    Svg: require('../../static/img/music-player.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The easiest way to create an audiobook from your WordPress site. If you’re an author who’s not pursuing this book format, you’re missing out on an entire audience.
       </>
     ),
   },
