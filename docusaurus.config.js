@@ -68,7 +68,7 @@ module.exports = {
       'docusaurus-plugin-plausible',
       {
         domain: 'mpl-docs.ferranfigueredo.com',
-        customDomain: 'analytics.ferranfigueredo.com'
+        customDomain: 'plausible.ferranfigueredo.com'
       },
     ]
   ],
