@@ -1,20 +1,20 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'MPL-Publisher Documentation',
+  tagline: 'Self-publish your WordPress book & ebook',
+  url: 'https://mpl-docs.ferranfigueredo.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/logo.png',
+  organizationName: 'ferranfg', // Usually your GitHub org/user name.
+  projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'MPL-Publisher',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'MPL-Publisher',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `© <a href="https://ferranfigueredo.com">ferranfigueredo.com</a> 🚀 All rights reserved.`,
     },
   },
   presets: [
