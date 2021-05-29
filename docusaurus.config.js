@@ -10,11 +10,14 @@ module.exports = {
   organizationName: 'ferranfg', // Usually your GitHub org/user name.
   projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
+    announcementBar: {
+      content: '📚 To get all the available formats and more cool features, visit <a href="https://mpl-publisher.ferranfigueredo.com/?utm_medium=docs&utm_campaign=premium" target="_blank">MPL-Publisher Premium</a> ⭐'
+    },
     navbar: {
       title: 'MPL-Publisher',
       logo: {
         alt: 'MPL-Publisher',
-        src: 'img/logo.png',
+        src: 'img/logo.webp'
       },
       items: [
         {
@@ -51,6 +54,7 @@ module.exports = {
       // contextualSearch: true,
       appId: 'OC9N1TKHGY'
     },
+    hideableSidebar: true,
     footer: {
       copyright: `© <a href="https://ferranfigueredo.com">ferranfigueredo.com</a> 🚀 All rights reserved.`,
     },
