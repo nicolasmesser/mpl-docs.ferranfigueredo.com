@@ -19,7 +19,7 @@ module.exports = {
       items: [
         {
           href: 'https://mpl-publisher.ferranfigueredo.com',
-          label: '🏠 Homepage',
+          label: '🏠 Home',
           position: 'left',
         },
         {
@@ -44,6 +44,12 @@ module.exports = {
           position: 'right',
         },
       ],
+    },
+    algolia: {
+      apiKey: 'bd08e40560438ad229b7b11c84d35153',
+      indexName: 'DOCS',
+      // contextualSearch: true,
+      appId: 'OC9N1TKHGY'
     },
     footer: {
       copyright: `© <a href="https://ferranfigueredo.com">ferranfigueredo.com</a> 🚀 All rights reserved.`,
