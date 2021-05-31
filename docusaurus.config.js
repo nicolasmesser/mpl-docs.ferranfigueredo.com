@@ -13,6 +13,18 @@ module.exports = {
     announcementBar: {
       content: '📚 To get all the available formats and more cool features, visit <a href="https://mpl-publisher.ferranfigueredo.com/?utm_medium=docs&utm_campaign=premium" target="_blank">MPL-Publisher Premium</a> ⭐'
     },
+    colorMode: {
+      switchConfig: {
+        darkIcon: '🌙',
+        darkIconStyle: {
+          marginLeft: '2px',
+        },
+        lightIcon: '☀️',
+        lightIconStyle: {
+          marginLeft: '2px',
+        },
+      },
+    },
     navbar: {
       title: 'MPL-Publisher',
       logo: {
