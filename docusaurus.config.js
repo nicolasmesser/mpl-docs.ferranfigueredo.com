@@ -52,12 +52,7 @@ module.exports = {
           href: 'https://wordpress.org/plugins/mpl-publisher/',
           label: 'WordPress',
           position: 'right',
-        },
-        {
-          href: 'https://github.com/ferranfg/mpl-publisher',
-          label: 'GitHub',
-          position: 'right',
-        },
+        }
       ],
     },
     algolia: {
