@@ -50,7 +50,7 @@ module.exports = {
         },
         {
           href: 'https://wordpress.org/plugins/mpl-publisher/',
-          label: 'WordPress',
+          label: '⬇️ Download MPL',
           position: 'right',
         }
       ],
