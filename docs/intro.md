@@ -2,34 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to MPL-Docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Most writers have stories that are worth **gold**. The problem is getting these stories online. If you have a good story and want to sell it, there is a high probability that you are going to be disappointed with the number of tools you must handle when converting your content into an electronic book. 
 
-## Getting Started
+:::note
 
-Get started by **creating a new site**.
+Fortunately, there are publishing platforms such as Kindle Direct Publishing and others. So publishing an e-book or audiobook can be a bit easier.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+:::
 
-## Generate a new site
+However, to self-publish your book on the platforms mentioned above, you need to have it in a formatted e-book file to upload to the publishing platforms.
 
-Generate a new Docusaurus site using the **classic template**:
+This means that your completed and edited manuscript must be in one of the formats that will be presented below (depending on the platform which you want to self-publish): **.mobi** for Amazon, **.ePub** for other stores, or **PDF** for ready-to-use books to print.
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+Here is where MPL-Publisher comes in, a WordPress plugin that will allow you to upload your story to the internet, making your e-book compatible with any of these platforms.
 
-## Start your site
+:::note
 
-Run the development server:
+With our plugin, you can download in a matter of seconds your e-book from your WordPress blog in multiple formats.
 
-```shell
-cd my-website
+:::
 
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+The only thing you need is a WordPress site. If you have your website already, all you have to do is download and activate the plugin and it will be available on your site. That way, you will be able to share your stories to the world.
