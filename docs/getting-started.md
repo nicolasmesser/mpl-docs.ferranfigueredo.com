@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Getting Started
 
-In general, the main section is divided into two modules. One of them is where you will be able to fill in the main data of your book (such as "ISBN", "Title", "Sescription of your book" and "type of export format"). This module will be found in all sections in the same place.
+In general, the main section is divided into two modules. One of them is where you will be able to fill in the main data of your book (such as "ISBN", "Title", "Description of your book" and "type of export format"). This module will be found in all sections in the same place.
 
 On the other hand, in the module that is located on the right side, you can find the "lists of posts" or collection of chapters that is where your e-book will be organized.
 
