@@ -2,7 +2,7 @@
 module.exports = {
   title: 'MPL-Publisher Documentation',
   tagline: 'Self-publish your WordPress book & ebook 📚',
-  url: 'https://mpl-docs.ferranfigueredo.com',
+  url: 'https://docs.mpl-publisher.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
     announcementBar: {
-      content: '📚 To get all the available formats and more cool features, visit <a href="https://mpl-publisher.ferranfigueredo.com/?utm_medium=docs&utm_campaign=premium" target="_blank">MPL-Publisher Premium</a> ⭐'
+      content: '📚 To get all the available formats and more cool features, visit <a href="https://wordpress.mpl-publisher.com/?utm_medium=docs&utm_campaign=premium" target="_blank">MPL-Publisher Premium</a> ⭐'
     },
     colorMode: {
       switchConfig: {
@@ -33,12 +33,12 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://mpl-publisher.ferranfigueredo.com',
+          href: 'https://wordpress.mpl-publisher.com',
           label: '🏠 Home',
           position: 'left',
         },
         {
-          href: 'https://mpl-marketplace.ferranfigueredo.com',
+          href: 'https://marketplace.mpl-publisher.com',
           label: '🧰 Resources',
           position: 'left',
         },
@@ -63,7 +63,7 @@ module.exports = {
     },
     hideableSidebar: true,
     footer: {
-      copyright: `© <a href="https://ferranfigueredo.com">ferranfigueredo.com</a> 🚀 All rights reserved.`,
+      copyright: `© <a href="https://mpl-publisher.com">MPL-Publisher</a> 📚 All rights reserved.`,
     },
   },
   presets: [
@@ -72,7 +72,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ferranfg/mpl-docs.ferranfigueredo.com/edit/master/'
+          editUrl: 'https://github.com/ferranfg/docs.mpl-publisher.com/edit/master/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
