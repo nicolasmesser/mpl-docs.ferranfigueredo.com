@@ -1,10 +1,10 @@
 {
   "index_name": "DOCS",
   "start_urls": [
-    "https://mpl-docs.ferranfigueredo.com/"
+    "https://docs.mpl-publisher.com/"
   ],
   "sitemap_urls": [
-    "https://mpl-docs.ferranfigueredo.com/sitemap.xml"
+    "https://docs.mpl-publisher.com/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
