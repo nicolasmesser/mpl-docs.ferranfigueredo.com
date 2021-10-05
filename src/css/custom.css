@@ -16,10 +16,15 @@
   --ifm-color-primary-lighter: #FE7B5D;
   --ifm-color-primary-lightest: #FFA487;
   --ifm-code-font-size: 95%;
+
+  --ifm-font-family-base: 'Nunito', sans-serif;
 }
 
-body {
-  font-family: 'Nunito', sans-serif;
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
 }
 
 .docusaurus-highlight-code-line {

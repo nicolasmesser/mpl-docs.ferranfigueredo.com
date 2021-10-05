@@ -3,6 +3,7 @@ module.exports = {
   title: 'MPL-Publisher Documentation',
   tagline: 'Self-publish your WordPress book & ebook 📚',
   url: 'https://docs.mpl-publisher.com',
+  trailingSlash: true,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -89,4 +90,7 @@ module.exports = {
       },
     ]
   ],
+  scripts: [
+    'https://twemoji.maxcdn.com/v/latest/twemoji.min.js'
+  ]
 };
