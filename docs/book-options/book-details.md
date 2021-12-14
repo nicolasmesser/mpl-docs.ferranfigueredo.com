@@ -10,7 +10,7 @@ There are six sections in total that you can interact with at the moment of publ
 
 In "Details" you can edit the most important information about the book, such as the title, description, and the authors (or author) of the book. All this will be useful to provide more detailed information about your book to the publishing sites. In this way, users on platforms such as Amazon will be able to find your book much faster when they are looking for it.
 
-![Book details](/img/docs/details-1.jpeg)
+![Book details](https://ik.imagekit.io/ferranfigueredo/mpl-publisher/details-1_Gi6xmbHs82c.png)
 
 ## Meta
 
@@ -18,27 +18,25 @@ The "Meta" section is where you can define the metadata that will be part of you
 
 All this information also adds weight to the internals of your book, so it can appear in the first positions of the search discovery in web book distributors such as Amazon.
 
-![Book Meta](/img/docs/details-2.jpeg)
+![Book Meta](https://ik.imagekit.io/ferranfigueredo/mpl-publisher/details-2_EsSlkaGTP.png)
 
 This is for sure a good practice, so publishing platforms know more data about your book and thus it can reflect that data in search engines to achieve an accurate search.
 
-## Links
+## External Links
 
-Over the "Links" section, you can add direct links to your Amazon page, a website, other distributors, and social networks. It can be seen as a bridge or a connection to other sites that you want to show to your readers, such as a landing page where they can continue to buy your products, including them in their sales funnel or social networks.
+Over the "External Links" section, you can add direct links to your Amazon page, a website, other distributors, and social networks. It can be seen as a bridge or a connection to other sites that you want to show to your readers, such as a landing page where they can continue to buy your products, including them in their sales funnel or social networks.
 
-![Book Links](/img/docs/details-3.jpeg)
+## Design
 
-## Appearance
+The "Design" section is where you can choose the look & feel in which the contents of the book will be displayed. Also, if you are proficient in front-end technologies (don't worry if you don't know, this is only optional), you can add your styles of how you want the pages of your book to look, how the texts will be aligned, choosing colors, etc.
 
-The "Appearance" section is where you can choose the look & feel in which the contents of the book will be displayed. Also, if you are proficient in front-end technologies (don't worry if you don't know, this is only optional), you can add your styles of how you want the pages of your book to look, how the texts will be aligned, choosing colors, etc.
-
-![Book Appearance](/img/docs/details-4.png)
+![Book Appearance](https://ik.imagekit.io/ferranfigueredo/mpl-publisher/details-3_o2xysBfqC.png)
 
 ## Premium
 
 If you click on "Premium" you will see that it allows you to unlock a mode that serves to expand the catalog of tools and features that this plugin has.
 
-The features are activated when purchasing the MPL-Publisher Premium license from our homepage. Immediately, the MPL-Publisher team will send you a key that you must put in the field called: "License key". Then you must click the "Save" button (next to "Publish eBook") to keep the changes.
+The features are activated when purchasing the MPL-Publisher Premium license from our homepage. Immediately, the MPL-Publisher team will send you a key that you must put in the field called: "License key". Then you must click the "Save" button (next to "Publish Ebook") to keep the changes.
 
 From there, you will have a more extensive list of tools at your disposal to customize and create your ebook easier.
 

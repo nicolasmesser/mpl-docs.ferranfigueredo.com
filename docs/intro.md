@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-description: MPL-Publisher is a WordPress plugin that will allow you to self-publish your book in multiple formats. The only thing you need is a WordPress site.
+description: MPL-Publisher is a WordPress plugin that will allow you to self-publish your book in multiple formats.
 ---
 
-# Welcome to MPL-Docs
+# Introduction
 
 Most writers have stories that are worth **gold**. The problem is getting these stories online. If you have a good story and want to sell it, there is a high probability that you are surprised by the number of tools you must handle when converting your content into an electronic book. 
 

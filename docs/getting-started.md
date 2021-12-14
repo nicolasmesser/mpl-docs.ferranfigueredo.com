@@ -9,7 +9,7 @@ In general, the main section is divided into two modules. One of them is where y
 
 On the other hand, in the module that is located on the right side, you can find the "lists of posts" or collection of chapters that is where your ebook will be organized.
 
-![Getting Started](/img/docs/started-1.jpeg)
+![Getting Started](https://ik.imagekit.io/ferranfigueredo/mpl-publisher/getting-started_q_M8m_t9o-m_.png)
 
 At the top of the list, there is a search field section where you can add data of certain chapters of your book to filter either by post type (if it is Post Type content or if it was generated directly from the list), by status or by date.
 
