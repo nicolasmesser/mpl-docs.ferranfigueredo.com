@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'MPL-Publisher Documentation',
-  tagline: 'Self-publish your WordPress book & ebook 📚',
+  tagline: 'Self-publish your WordPress ebook & audiobook 📚',
   url: 'https://docs.mpl-publisher.com',
   trailingSlash: true,
   baseUrl: '/',
@@ -11,9 +11,6 @@ module.exports = {
   organizationName: 'ferranfg', // Usually your GitHub org/user name.
   projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
-    announcementBar: {
-      content: '📚 To get all the available formats and more cool features, visit <a href="https://wordpress.mpl-publisher.com/?utm_medium=docs&utm_campaign=premium" target="_blank">MPL-Publisher Premium</a> ⭐'
-    },
     colorMode: {
       switchConfig: {
         darkIcon: '🌙',
@@ -34,24 +31,14 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://wordpress.mpl-publisher.com',
-          label: '🏠 Home',
-          position: 'left',
-        },
-        {
-          href: 'https://marketplace.mpl-publisher.com',
-          label: '🧰 Resources',
-          position: 'left',
-        },
-        {
           type: 'doc',
           docId: 'intro',
           position: 'left',
           label: '🚀 Getting Started',
         },
         {
-          href: 'https://wordpress.org/plugins/mpl-publisher/',
-          label: '⬇️ Download MPL',
+          href: 'https://wordpress.mpl-publisher.com',
+          label: '📚 MPL-Publisher',
           position: 'right',
         }
       ],

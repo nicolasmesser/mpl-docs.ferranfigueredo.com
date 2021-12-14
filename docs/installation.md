@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Installing MPL-Publisher is easy. You only need to go to the left sidebar and click on "Add new". You will need PHP 7.1.8 or higher and WordPress 5.0 or higher.
 ---
 
 # Installation & Activation

@@ -14,7 +14,7 @@ In "Details" you can edit the most important information about the book, such as
 
 ## Meta
 
-The "Meta" section is where you can define the metadata that will be part of your book once it has been converted to the e-book format you want. Information such as the language, the publication date, the cover of the book, the name of the publisher or Copyright data.
+The "Meta" section is where you can define the metadata that will be part of your book once it has been converted to the ebook format you want. Information such as the language, the publication date, the cover of the book, the name of the publisher, or Copyright data.
 
 All this information also adds weight to the internals of your book, so it can appear in the first positions of the search discovery in web book distributors such as Amazon.
 
@@ -40,13 +40,13 @@ If you click on "Premium" you will see that it allows you to unlock a mode that 
 
 The features are activated when purchasing the MPL-Publisher Premium license from our homepage. Immediately, the MPL-Publisher team will send you a key that you must put in the field called: "License key". Then you must click the "Save" button (next to "Publish eBook") to keep the changes.
 
-From there, you will have a more extensive list of tools at your disposal to customize and create your e-book easier.
+From there, you will have a more extensive list of tools at your disposal to customize and create your ebook easier.
 
 ## Resources
 
-Last but not least, you can go to "Resources" tab, which is a section that will provide some guidance through the standards of large retailers.
+Last but not least, you can go to the "Resources" tab, which is a section that will provide some guidance through the standards of large retailers.
 
-It can be very helpful if you want to know what the world of e-books and self-publishers is like and all that it takes to become an expert self-publisher on the internet.
+It can be very helpful if you want to know what the world of ebooks and self-publishers is like and all that it takes to become an expert self-publisher on the internet.
 
 This section has been designed to serve as a source of real background and knowledge that can be used as inspiration or guidance if you don't have ideas on how to get started on your book.
 
