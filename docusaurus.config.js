@@ -37,8 +37,13 @@ module.exports = {
           label: '🚀 Getting Started',
         },
         {
-          href: 'https://wordpress.mpl-publisher.com',
-          label: '📚 MPL-Publisher',
+          href: 'https://mpl-publisher.com',
+          label: '📚 Home',
+          position: 'right',
+        },
+        {
+          href: 'https://mpl-publisher.com/blog',
+          label: '📰 Blog',
           position: 'right',
         }
       ],
