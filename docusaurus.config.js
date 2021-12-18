@@ -72,17 +72,5 @@ module.exports = {
         },
       },
     ],
-  ],
-  plugins: [
-    [
-      'docusaurus-plugin-plausible',
-      {
-        domain: 'docs.mpl-publisher.com',
-        customDomain: 'plausible.ferranfigueredo.com'
-      },
-    ]
-  ],
-  scripts: [
-    'https://twemoji.maxcdn.com/v/latest/twemoji.min.js'
   ]
 };
