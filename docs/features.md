@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: These are the current wordpress plugin features. Future releases will include multiple professional designs and direct sell your ebooks to your audience
 ---
 
 # Features & Requirements
@@ -16,7 +17,7 @@ For now, these are the current features:
 - Add additional book chapters and edit current content.
 - Include your custom CSS styles into your books.
 
-# Requirements
+## Requirements
 
 - PHP 7.1.8 or higher
 - WordPress 5.0 or higher

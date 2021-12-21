@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: There are six sections in total that you can interact with at the moment of publishing the ebook. Details, Meta, Links, Appearance, Premium and Resources.
 ---
 
 # Book Details
