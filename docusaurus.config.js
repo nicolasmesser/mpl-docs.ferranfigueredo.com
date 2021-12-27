@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'MPL-Publisher Documentation',
+  title: 'Documentation | MPL-Publisher',
   tagline: 'Self-publish your WordPress ebook & audiobook 📚',
   url: 'https://docs.mpl-publisher.com',
   trailingSlash: true,
