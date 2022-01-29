@@ -13,10 +13,10 @@ module.exports = {
   themeConfig: {
     image: 'https://ps.w.org/mpl-publisher/assets/banner-1544x500.jpg?rev=2636271',
     metadata: [{
-      name: 'og:type',
+      property: 'og:type',
       content: 'article'
     }, {
-      name: 'fb:app_id',
+      property: 'fb:app_id',
       content: '1123545991778390'
     }],
     colorMode: {
