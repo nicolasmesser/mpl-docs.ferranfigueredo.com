@@ -11,6 +11,7 @@ module.exports = {
   organizationName: 'ferranfg', // Usually your GitHub org/user name.
   projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
+    image: 'assets/images/bg-d8c702b10892474358d54c93388ae944.webp',
     colorMode: {
       switchConfig: {
         darkIcon: '🌙',
