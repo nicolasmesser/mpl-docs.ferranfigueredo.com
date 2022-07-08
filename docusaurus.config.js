@@ -53,6 +53,11 @@ module.exports = {
           href: 'https://mpl-publisher.com/blog',
           label: '📰 Blog',
           position: 'right',
+        },
+        {
+          href: 'https://wordpress.org/support/plugin/mpl-publisher/',
+          label: '📨 Support',
+          position: 'right',
         }
       ],
     },
