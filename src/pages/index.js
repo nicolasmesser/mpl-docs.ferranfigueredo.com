@@ -17,10 +17,10 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Getting Started - 5min ⏱️
+            Get Started
           </Link>
           <Link
-            class name="button button--secondary button--lg"
+            className="button button--secondary button--lg"
             to="/docs/faq">
             FAQ
           </Link>
