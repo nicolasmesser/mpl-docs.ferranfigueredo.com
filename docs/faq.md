@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-description: 
+description: FAQ - Common Errors
 ---
 
 # FAQ - Common Errors
