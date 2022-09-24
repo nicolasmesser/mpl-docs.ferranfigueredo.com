@@ -12,6 +12,11 @@ module.exports = {
   projectName: 'mpl-docs', // Usually your repo name.
   themeConfig: {
     image: 'https://ps.w.org/mpl-publisher/assets/banner-1544x500.jpg?rev=2636271',
+    docs: {
+      sidebar: {
+        hideable: true
+      }
+    },
     metadata: [{
       property: 'og:type',
       content: 'article'
@@ -19,18 +24,6 @@ module.exports = {
       property: 'fb:app_id',
       content: '1123545991778390'
     }],
-    colorMode: {
-      switchConfig: {
-        darkIcon: '🌙',
-        darkIconStyle: {
-          marginLeft: '2px',
-        },
-        lightIcon: '☀️',
-        lightIconStyle: {
-          marginLeft: '2px',
-        },
-      },
-    },
     navbar: {
       title: 'MPL-Publisher',
       logo: {
@@ -67,7 +60,6 @@ module.exports = {
       // contextualSearch: true,
       appId: 'OC9N1TKHGY'
     },
-    hideableSidebar: true,
     footer: {
       copyright: `© <a href="https://mpl-publisher.com">MPL-Publisher</a> 📚 All rights reserved.`,
     },
