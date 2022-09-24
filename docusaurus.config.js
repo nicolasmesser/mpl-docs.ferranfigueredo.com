@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Documentation | MPL-Publisher',
+  title: 'Docs | MPL-Publisher',
   tagline: 'Self-publish your WordPress ebook & audiobook 📚',
   url: 'https://docs.mpl-publisher.com',
   trailingSlash: true,
@@ -9,7 +9,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
   organizationName: 'ferranfg', // Usually your GitHub org/user name.
-  projectName: 'mpl-docs', // Usually your repo name.
+  projectName: 'docs.mpl-publisher.com', // Usually your repo name.
   themeConfig: {
     image: 'https://ps.w.org/mpl-publisher/assets/banner-1544x500.jpg?rev=2636271',
     docs: {
