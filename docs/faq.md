@@ -29,4 +29,4 @@ You can read more details in [the Amazon's announcement](https://www.amazon.com/
 
 One of the posts you are trying to convert to a Word document has an `a` tag without a proper `href` (note that `<a href="#">` also triggers the error). So you have to find in your selected posts which is the responsible one. Editing your link to something like `<a href="#section">` should fix the error.
 
-Another way to find the link could be running a SQL query with the text you are looking for. For example, running something like `select * from wp_posts where post_content like '%href=""%' or post_content like '%href="#%"` should return the root cause.
+Another way to find the link could be running a SQL query with the text you are looking for. For example, running something like `select * from wp_posts where post_content like '%href=""%' or post_content like '%href="#"%` should return the root cause.
