@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/shopping-bag.svg').default,
     description: (
       <>
-        We support MOBI and EPUB formats that meet the specifications outlined in the Kindle Publishing Guidelines. Your book will be publish-ready to sell online in seconds.
+        We support EPUB and Word formats that meet the specifications outlined in the Kindle Publishing Guidelines. Your book will be publish-ready to sell online in seconds.
       </>
     ),
   },
