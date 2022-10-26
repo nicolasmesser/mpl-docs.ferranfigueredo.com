@@ -17,7 +17,7 @@ Aside from these general recommendations, there are a couple of behaviors detect
 
 ### Images are not displayed in EPUB
 
-Some readers don't display remote images. For instance, **the Mac Books app does not load remote images** but Calibre does. Try including or embedding images inside the book. From our plugin, check the **Content images** section inside the **Design** tab.
+Some readers don't display remote images. For instance, **the Mac Books app does not load remote images** but Calibre does. Try including or embedding images inside the book. From our plugin, check the **[Content images](/docs/book-options/book-details/#content-images)** section inside the **Design** tab.
 
 ### Images are not displayed in Word
 
