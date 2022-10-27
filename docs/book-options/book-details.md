@@ -46,34 +46,6 @@ The HTML used by the plugin is the same that your website does, but cleaning all
 If you want a base for editing your own styles, this is the CSS we use with our default theme.
 
 ```css title="theme-default.css"s
-@font-face {
-    font-family: 'Merriweather';
-    font-weight: normal;
-    font-style: normal;
-    src: url('./merriweather-regular.ttf');
-}
-
-@font-face {
-    font-family: 'Merriweather';
-    font-weight: 700;
-    font-style: normal;
-    src: url('./merriweather-bold.ttf');
-}
-
-@font-face {
-    font-family: 'Merriweather';
-    font-weight: normal;
-    font-style: italic;
-    src: url('./merriweather-italic.ttf');
-}
-
-@font-face {
-    font-family: 'Lato';
-    font-weight: 500;
-    font-style: normal;
-    src: url('./lato-bold.ttf');
-}
-
 body {
     font-family: 'Merriweather', serif;
     font-weight: normal;
