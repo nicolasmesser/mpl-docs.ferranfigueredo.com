@@ -29,7 +29,7 @@ The plugin (free and paid) works generating a book for every site of the network
 
 ## Are the files created using a cloud service?
 
-It will depend on the output format. If the chosen format is PDF or audiobook, it will be generated on the [MPL-Publisher](https://mpl-publisher.com) cloud service. If the output format is any other (EPUB, Word, etc.), it will be generated on your server. In these cases, no information will travel outside your servers.
+It will depend on the output format. If the chosen format is premium (PDF, Audiobook or Online Book), it will be generated on the [MPL-Publisher](https://mpl-publisher.com) cloud service. If the output format is any other (EPUB, Word, etc.), it will be generated on your server. In these cases, no information will travel outside your servers.
 
 ## Some Word chapters are blank
 
