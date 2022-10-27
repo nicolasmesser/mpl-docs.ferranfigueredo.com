@@ -33,6 +33,95 @@ The "Design" section is where you can choose the look & feel in which the conten
 
 ![Book Appearance](https://ik.imagekit.io/ferranfigueredo/mpl-publisher/details-3_o2xysBfqC.png)
 
+### Custom CSS
+
+You can publish your book with your custom CSS, overriding the default file included with our themes.
+
+:::note
+
+The HTML used by the plugin is the same that your website does, but cleaning all the inline styles, non-valid attributes or other unnecesary elements. This way we generate a more readable and cleaner HTML.
+
+:::
+
+If you want a base for editing your own styles, this is the CSS we use with our default theme.
+
+```css title="theme-default.css"s
+@font-face {
+    font-family: 'Merriweather';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./merriweather-regular.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-weight: 700;
+    font-style: normal;
+    src: url('./merriweather-bold.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-weight: normal;
+    font-style: italic;
+    src: url('./merriweather-italic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 500;
+    font-style: normal;
+    src: url('./lato-bold.ttf');
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    color:#222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+h1.chapter-title {
+    margin: 2em 0 1em;
+    text-align: center;
+    font-size: 2.2rem;
+}
+
+h2 {
+    color: #ba3925;
+    font-size: 1.4rem;
+    margin: 1.8rem 0 1rem;
+}
+
+a {
+    color: #ba3925;
+}
+
+p {
+    line-height: 1.6rem;
+    margin-bottom: 1.6rem;
+}
+
+p i, p em {
+    font-style: italic;
+}
+
+/* https://codex.wordpress.org/Styling_Images_in_Posts_and_Pages */
+img.alignright { float:right; margin:0 0 1em 1em }
+img.alignleft { float:left; margin:0 1em 1em 0 }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto }
+a img.alignright { float:right; margin:0 0 1em 1em }
+a img.alignleft { float:left; margin:0 1em 1em 0 }
+a img.aligncenter { display: block; margin-left: auto; margin-right: auto }
+figure.alignright { float:right; margin:0 0 1em 1em }
+figure.alignleft { float:left; margin:0 1em 1em 0 }
+figure.aligncenter { display: block; margin-left: auto; margin-right: auto }
+```
+
 ### Content images
 
 Images are an innovative component of digital books, so using them is crucial for most authors. We enable three different ways to include images in your book.
