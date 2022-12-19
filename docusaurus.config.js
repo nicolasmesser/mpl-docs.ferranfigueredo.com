@@ -79,7 +79,7 @@ module.exports = {
     ],
   ],
   scripts: [{
-    'src': 'https://plausible.ferranfigueredo.com/js/plausible.js',
+    'src': 'https://plausible.ferranfigueredo.com:8443/js/plausible.js',
     'defer': true,
     'data-domain': 'mpl-publisher.com'
   }],
