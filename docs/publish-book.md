@@ -29,7 +29,7 @@ You can include a download widget in your pages or posts. Just add the `[mpl]` s
 
 These options are:
 
-- `[mpl book-id="XXX"][/mpl]` will export the defined book. You can find the **Book ID** in your [Book details](/docs/book-options/book-details/).
+- `[mpl book_id="XXX"][/mpl]` will export the defined book. You can find the **Book ID** in your [Book details](/docs/book-options/book-details/).
 - `[mpl download="true"][/mpl]` will include a download button. The download will be based on your current saved settings.
 - `[mpl external="true"][/mpl]` will include your ebook's external links. You can change these links on your [Metadata setings](/docs/book-options/book-details/#external-links).
 - Modify your shortcode's title using `[mpl]Download My Book[/mpl]`
