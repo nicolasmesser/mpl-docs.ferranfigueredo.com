@@ -9,9 +9,19 @@ description: FAQ - Common Errors
 
 Images are an innovative component of digital books, so using them is important for most authors. If your post or book chapter contains images that are not displayed in your final book, here are a couple of recommendations to look at:
 
+- **Make sure your URLs are publicly accessible**: If you are creating your ebook from your local environment or you enable a firewall that limits connectivity, images will not be shown. Make sure your images are available in a public URL and accessible from he internet.
+
 - **Disable lazy load plugins**: Lazy load plugins are great for the web but modify the HTML code in a non-compliant way. More precisely, they replace the `src` attribute and load the images via JavaScript. As ebook readers cannot execute JavaScript code, images never show. Try to disable any lazy load plugin before generating your book.
 
-- **Make sure your URLs are publicly accessible**: If you are creating your ebook from your local environment or you enable a firewall that limits connectivity, images will not be shown. Make sure your images are available in a public URL and accessible from he internet.
+- **If you are using Jetpack Lazy Loading Images**: Try disabling this feature before generating your book.
+
+    1. Navigate to *Jetpack → Settings → Performance*.
+    2. Scroll to the *Performance and Speed* section.
+    3. Click the toggle to activate **Lazy loading for images**.
+
+    ![Jetpack Lazy Loading](/img/enable-lazy-loading.webp)
+
+    Learn more about [Jetpack Lazy Loading Images](https://jetpack.com/support/lazy-images/).
 
 Aside from these general recommendations, there are a couple of behaviors detected in specific formats.
 
