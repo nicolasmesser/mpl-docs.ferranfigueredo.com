@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Docs | MPL-Publisher',
-  tagline: 'Self-publish your WordPress ebook & audiobook 📚',
+  tagline: '✍ Keep earning with your great writing',
   url: 'https://docs.mpl-publisher.com',
   trailingSlash: true,
   baseUrl: '/',
@@ -31,12 +31,6 @@ module.exports = {
         src: 'img/logo.webp'
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: '🚀 Getting Started',
-        },
         {
           href: 'https://mpl-publisher.com',
           label: '📚 Home',
@@ -78,8 +72,18 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'children',
+        path: 'children',
+        routeBasePath: 'children'
+      }
+    ]
+  ],
   scripts: [{
-    'src': 'https://plausible.ferranfigueredo.com:8443/js/plausible.js',
+    'src': 'https://plausible.ferranfigueredo.com/js/plausible.js',
     'defer': true,
     'data-domain': 'mpl-publisher.com'
   }],

@@ -17,12 +17,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg button--home"
             to="/docs/intro">
-            Get Started ➡️
+            📚 WordPress Docs
           </Link>
           <Link
             className="button button--secondary button--lg button--home"
-            to="/docs/faq">
-            FAQ ❓
+            to="/children">
+            📙 Children Docs
           </Link>
         </div>
       </div>
