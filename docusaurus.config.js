@@ -32,6 +32,10 @@ module.exports = {
       },
       items: [
         {
+          href: '/search',
+          label: '🔍 Search Docs',
+        },
+        {
           href: 'https://mpl-publisher.com',
           label: '📚 Home',
           position: 'right',
