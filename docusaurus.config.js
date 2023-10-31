@@ -32,7 +32,7 @@ module.exports = {
       },
       items: [
         {
-          href: '/search',
+          href: '/search/',
           label: '🔍 Search Docs',
         },
         {
