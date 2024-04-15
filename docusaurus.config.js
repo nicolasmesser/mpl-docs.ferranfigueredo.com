@@ -46,8 +46,8 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://wordpress.org/support/plugin/mpl-publisher/',
-          label: '📨 Support',
+          href: 'https://mpl-publisher.com/blog/contact-us',
+          label: '📨 Contact',
           position: 'right',
         }
       ],
