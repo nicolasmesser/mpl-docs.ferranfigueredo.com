@@ -30,3 +30,13 @@ With our plugin, you can download in a matter of seconds your ebook from your Wo
 :::
 
 The only thing you need is a WordPress site. If you have your website already, all you have to do is download and activate the plugin, and it will be available on your site. That way, you will be able to share your ebooks with the world.
+
+## About this Documentation
+
+This documentation is running on [Docusaurus](https://docusaurus.io/), a great open-source framework for building, deploying, and maintaining documentation websites.
+
+You can use Docusaurus plugins to interact with our documentation. For example, you can create a PDF file of this documentation using the plugin https://github.com/signcl/docusaurus-prince-pdf and running the command:
+
+```sh
+npx docusaurus-prince-pdf -u https://docs.mpl-publisher.com/docs/intro
+```
